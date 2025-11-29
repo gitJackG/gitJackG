@@ -1,6 +1,6 @@
 # About Me:
 I'm a Computer Science graduate eager to begin my professional career. I'm currently working on making vibrant personal websites. <br> Open to work. <br>
-My portfolio: https://gitjackg.github.io/Portfolio/
+My portfolio: https://jackgr.dev
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jack-griffiths-rico) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.griffithsrico@gmail.com) 
 
